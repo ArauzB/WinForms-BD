@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rUBPy3rEvoiAulJSRcR0T996eC3GwQ79z1JnuBXGeHt8/7WzpjXey5qltYJz0RSQI4ud59HGiyMUKXi/8US/oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\angel\\Downloads\\Proyecto Final-20221022T021404Z-001\\Proyecto Final\\CapaDeSoporte\\CapaDeSoporte.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

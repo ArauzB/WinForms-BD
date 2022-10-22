@@ -1,0 +1,89 @@
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\bin\Release\Proyecto Final.exe.config
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\bin\Release\Proyecto Final.exe
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\bin\Release\Proyecto Final.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\bin\Release\Domain.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\bin\Release\System.Data.SqlClient.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\bin\Release\DataAccess.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\bin\Release\Domain.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\bin\Release\System.Data.SqlClient.xml
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\bin\Release\DataAccess.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Agregar.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Anular.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Consultar.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Editar.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Login.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Properties.Resources.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.exe
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Inicio.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.principalPanel.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Agregar.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Consultar.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Editar.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Inicio.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Login.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.principalPanel.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Properties.Resources.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.exe
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\bin\Release\Proyecto Final.exe.config
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\bin\Release\Proyecto Final.exe
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\bin\Release\Proyecto Final.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\bin\Release\Domain.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\bin\Release\System.Data.SqlClient.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\bin\Release\DataAccess.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\bin\Release\Domain.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\bin\Release\System.Data.SqlClient.xml
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\bin\Release\DataAccess.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.csproj.CopyComplete
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\bin\Release\Proyecto Final.exe.config
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\bin\Release\Proyecto Final.exe
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\bin\Release\Proyecto Final.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\bin\Release\Domain.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\bin\Release\System.Data.SqlClient.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\bin\Release\DataAccess.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\bin\Release\Domain.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\bin\Release\System.Data.SqlClient.xml
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\bin\Release\DataAccess.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Agregar.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Consultar.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Editar.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Inicio.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Login.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.principalPanel.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Properties.Resources.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.exe
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\bin\Release\Proyecto Final.exe.config
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\bin\Release\Proyecto Final.exe
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\bin\Release\Proyecto Final.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\bin\Release\CapaDeSoporte.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\bin\Release\Domain.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\bin\Release\System.Data.SqlClient.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\bin\Release\DataAccess.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\bin\Release\CapaDeSoporte.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\bin\Release\Domain.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\bin\Release\System.Data.SqlClient.xml
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\bin\Release\DataAccess.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Agregar.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Consultar.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Editar.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Inicio.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Login.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.principalPanel.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto_Final.Properties.Resources.resources
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.csproj.CopyComplete
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.exe
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\Proyecto Final\obj\Release\Proyecto Final.pdb

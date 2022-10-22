@@ -1,0 +1,68 @@
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\CapaDeSoporte.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\CapaDeSoporte.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\CapaDeSoporte.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\CapaDeSoporte.pdb
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\CapaDeSoporte.dll
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\DataAccess\bin\Debug\netstandard2.0\CapaDeSoporte.pdb
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

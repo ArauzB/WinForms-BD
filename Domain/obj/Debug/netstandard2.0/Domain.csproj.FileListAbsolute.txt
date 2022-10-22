@@ -1,0 +1,84 @@
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\Domain\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\Domain\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.csproj.CopyComplete
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\angel\Downloads\Proyecto Progra\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Domain\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Domain\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.csproj.CopyComplete
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Domain\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Domain\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.csproj.CopyComplete
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\Domain\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\Domain\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.csproj.CopyComplete
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\Domain\bin\Debug\netstandard2.0\CapaDeSoporte.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\Domain\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\Domain\bin\Debug\netstandard2.0\CapaDeSoporte.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\Domain\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.csproj.CopyComplete
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Domain\bin\Debug\netstandard2.0\CapaDeSoporte.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final\Proyecto Final\Domain\bin\Debug\netstandard2.0\CapaDeSoporte.pdb
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\Domain\bin\Debug\netstandard2.0\CapaDeSoporte.dll
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\Domain\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\Domain\bin\Debug\netstandard2.0\CapaDeSoporte.pdb
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\Domain\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.csproj.CopyComplete
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\Domain\obj\Debug\netstandard2.0\Domain.pdb

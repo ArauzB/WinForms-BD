@@ -1,0 +1,19 @@
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\CapaDeSoporte\bin\Debug\netstandard2.0\CapaDeSoporte.deps.json
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\CapaDeSoporte\bin\Debug\netstandard2.0\CapaDeSoporte.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\CapaDeSoporte\bin\Debug\netstandard2.0\CapaDeSoporte.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\CapaDeSoporte\obj\Debug\netstandard2.0\CapaDeSoporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\CapaDeSoporte\obj\Debug\netstandard2.0\CapaDeSoporte.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\CapaDeSoporte\obj\Debug\netstandard2.0\CapaDeSoporte.AssemblyInfo.cs
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\CapaDeSoporte\obj\Debug\netstandard2.0\CapaDeSoporte.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\CapaDeSoporte\obj\Debug\netstandard2.0\CapaDeSoporte.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia\Proyecto Final\CapaDeSoporte\obj\Debug\netstandard2.0\CapaDeSoporte.pdb
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\CapaDeSoporte\bin\Debug\netstandard2.0\CapaDeSoporte.deps.json
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\CapaDeSoporte\bin\Debug\netstandard2.0\CapaDeSoporte.dll
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\CapaDeSoporte\bin\Debug\netstandard2.0\CapaDeSoporte.pdb
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\CapaDeSoporte\obj\Debug\netstandard2.0\CapaDeSoporte.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\CapaDeSoporte\obj\Debug\netstandard2.0\CapaDeSoporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\CapaDeSoporte\obj\Debug\netstandard2.0\CapaDeSoporte.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\CapaDeSoporte\obj\Debug\netstandard2.0\CapaDeSoporte.AssemblyInfo.cs
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\CapaDeSoporte\obj\Debug\netstandard2.0\CapaDeSoporte.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\CapaDeSoporte\obj\Debug\netstandard2.0\CapaDeSoporte.dll
+C:\Users\angel\Downloads\Proyecto Final-20221022T021404Z-001\Proyecto Final\CapaDeSoporte\obj\Debug\netstandard2.0\CapaDeSoporte.pdb

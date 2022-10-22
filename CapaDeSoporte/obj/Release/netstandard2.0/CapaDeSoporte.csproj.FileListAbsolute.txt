@@ -1,0 +1,10 @@
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\CapaDeSoporte\bin\Release\netstandard2.0\CapaDeSoporte.deps.json
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\CapaDeSoporte\bin\Release\netstandard2.0\CapaDeSoporte.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\CapaDeSoporte\bin\Release\netstandard2.0\CapaDeSoporte.pdb
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\CapaDeSoporte\obj\Release\netstandard2.0\CapaDeSoporte.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\CapaDeSoporte\obj\Release\netstandard2.0\CapaDeSoporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\CapaDeSoporte\obj\Release\netstandard2.0\CapaDeSoporte.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\CapaDeSoporte\obj\Release\netstandard2.0\CapaDeSoporte.AssemblyInfo.cs
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\CapaDeSoporte\obj\Release\netstandard2.0\CapaDeSoporte.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\CapaDeSoporte\obj\Release\netstandard2.0\CapaDeSoporte.dll
+C:\Users\angel\Downloads\Proyectos Programacion\Proyecto Final 1 Propuesta 4 - copia - copia - copia\Proyecto Final\CapaDeSoporte\obj\Release\netstandard2.0\CapaDeSoporte.pdb
